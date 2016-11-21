@@ -1,0 +1,19 @@
+{
+  "name": "temporary-email-domains",
+  "version": "1.0.0",
+  "description": "",
+  "main": "domains.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kowsheek/temporary-email-domains.git"
+  },
+  "author": "Kowsheek Mahmood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kowsheek/temporary-email-domains/issues"
+  },
+  "homepage": "https://github.com/kowsheek/temporary-email-domains#readme"
+}
